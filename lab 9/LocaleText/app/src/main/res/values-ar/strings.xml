@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نص مترجم</string>
+    <string name="action_help">أيودا</string>
+    <string name="description">نوجا هي عائلة من الحلويات المصنوعة من السكر أو العسل والمكسرات المحمصة (اللوز والجوز والفستق والبندق والمكاديميا) وبياض البيض المخفوق وأحيانًا الفاكهة المسكرة المقطعة. يتم استخدامه في مجموعة متنوعة من الحلويات والشوكولاتة.</string>
+    <string name="help_text">إذا كنت بحاجة إلى مساعدة ، يرجى الاتصال بقسم الدعم لدينا.</string>
+    <string name="nougat">عبوة حلوى نوجا</string>
+</resources>
